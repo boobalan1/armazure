@@ -1,0 +1,16 @@
+{
+  "name": "azuren-phase1",
+  "version": "0.0.1",
+  "description": "Azure templates for MCI Infrastructure.",
+  "main": "cfn-deploy-env.js",
+  "private": true,
+  "author": {
+    "name": "Parthu",
+    "email": "boobalan@sysgain.com"
+  },
+  
+  "devDependencies": {
+    "jshint": "~2.7.0"
+  },
+  "dependencies": {}
+}
